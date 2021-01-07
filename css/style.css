@@ -1,7 +1,6 @@
 card {
     margin: 15px;
 }
-/*Used on all header divs start*/
 head-div {
     background-image: linear-gradient(#4e6891, #5151af);
     border-bottom-left-radius: 14px;
@@ -34,4 +33,7 @@ customrc-right-bottom {
 customrc-right-all {
     border-top-right-radius: 14px;
     border-bottom-right-radius: 14px;
+}
+alert {
+    margin: 15px;
 }
