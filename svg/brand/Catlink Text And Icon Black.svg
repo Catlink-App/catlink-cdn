@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?> <!-- Created with Vectornator for iOS (http://vectornator.io/) --><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" xmlns:vectornator="http://vectornator.io" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" xml:space="preserve" version="1.1" viewBox="0 0 900 300">
+<metadata>
+<vectornator:setting key="DimensionsVisible" value="1"/>
+<vectornator:setting key="SnapToGrid" value="0"/>
+<vectornator:setting key="SnapToPoints" value="0"/>
+<vectornator:setting key="GuidesVisible" value="1"/>
+<vectornator:setting key="RulersVisible" value="1"/>
+<vectornator:setting key="SnapToEdges" value="0"/>
+<vectornator:setting key="DisplayWhiteBackground" value="0"/>
+<vectornator:setting key="SnapToGuides" value="1"/>
+<vectornator:setting key="GridSpacing" value="36"/>
+<vectornator:setting key="Units" value="Pixels"/>
+<vectornator:setting key="DynamicGuides" value="1"/>
+<vectornator:setting key="New" value="1"/>
+</metadata>
+<defs/>
+<g id="Layer 1" vectornator:layerName="Layer 1">
+<path d="M31.6972+171.739C31.6972+113.541+79.1934+66.3614+137.783+66.3614C196.372+66.3614+243.869+113.541+243.869+171.739C243.869+229.937+196.372+277.116+137.783+277.116C79.1934+277.116+31.6972+229.937+31.6972+171.739Z" opacity="1" fill="#000000"/>
+<path d="M226.806+25.2346C231.039+20.5534+238.648+23.3048+238.861+29.5933L243.437+164.414C243.607+169.441+238.684+173.122+234.035+171.441L138.712+136.978C134.063+135.298+132.673+129.334+136.057+125.591L226.806+25.2346Z" opacity="1" fill="#000000"/>
+<path d="M36.3926+29.6478C36.6011+23.3639+44.2133+20.62+48.4524+25.3012L139.334+125.66C142.723+129.402+141.337+135.361+136.687+137.037L41.3314+171.404C36.6813+173.08+31.7518+169.398+31.9184+164.374L36.3926+29.6478Z" opacity="1" fill="#000000"/>
+<text x="0" font-family="Lato-Bold" y="0" text-anchor="start" vectornator:text="Catlink" fill="#000000" font-size="151" vectornator:width="511.154" opacity="1" transform="matrix(1 0 0 1 312.817 66.3614)">
+<tspan x="0" y="149" textLength="474.442">
+Catlink</tspan>
+</text>
+</g>
+</svg>
